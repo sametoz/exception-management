@@ -27,9 +27,9 @@ Ya da gelişiminiz açısından bu hataları dönüp dönüp tekrar edebileceksi
 
 Tabiki extensionlar aklıma geldikçe ekleyeceğim. Fakat şimdilik aklımda olanlar;
 
-Authorization
-Authantication
-Programlama dillerine göre hata kaydetme
-Hatanın çözümünü kaydetme
-Hataların koddaki resmini ekleyebilme
+* Authorization
+* Authantication
+* Programlama dillerine göre hata kaydetme
+* Hatanın çözümünü kaydetme
+* Hataların koddaki resmini ekleyebilme
 
