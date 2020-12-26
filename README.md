@@ -3,8 +3,6 @@ Exception Management Application
 
 
 # TR
-Uygulama geliştirirken, ya da herhangi bir teknolojiyi öğrenirken aldığımız hatalar genellikle aynıdır.
-Ya da benzerdir.
 
 Bir yazılım geliştirici ne zaman senior olur.? Junior yazılımcılar ile senior yazılımcılar arasındaki
 fark / farklar nedir.? Tecrübe.? Daha fazla projede yer almak.? Daha çok teknoloji biliyor olmak.?
